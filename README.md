@@ -1,55 +1,43 @@
-## 二哈社区TVBox在线接口
-![二哈社区](https://www.2ha.cc/template/quater_6_flyme/src/logo.png "2ha.cc")
+## 本接口不再支持TVBox，请各位安装OK影视，功能更多，设计更合理，并且有手机端！
 
-#### 二哈社区官方地址：[www.2ha.cc](www.2ha.cc "二哈社区")
-> 二哈社区是公益性分享社区，社区内包含：TV盒子软件，安卓软件，PC软件和各种网络接口大全。因为本人是业余爱好，所以更新时间不确定，如果有共同爱好的朋友可以发帖子帮忙更新一些软件或者接口，不胜感激！！！
- 
-### 此接口新的高速地址：[https://tv.5ye.cc](https://tv.5ye.cc "二哈社区")
-一定要是https，http是不行的。
-##### 配置地址 简易设定流程：
-##### 设置 -->  配置地址 --> 输入 https://tv.5ye.cc --> 点击确定 --> 返回首页  
-> 本接口内的资源均采集自网络，如有侵权或违规请去二哈社区留言，我会及时修改删除。
+### [OK影视下载地址](https://2hacc.lanzoue.com/b00pzypv9g) 密码:5d5i
+  
+注：有些电视可能安装不成功，可以用海信版试试，可能有惊喜
 
-### 在此非常感谢各位朋友在百忙之中能帮我指正错误，特别鸣谢 hl128k 提交修改分支。感谢大家的支持！！！
+## GitHub加速
 
-### GitHub加速
-国内访问地址一
-```
-主接口：
-https://raw.iqiq.io/2hacc/TVBox/main/tvbox.json
+### 国内访问访问地址一
 
-小雅js：
-https://raw.iqiq.io/2hacc/TVBox/main/drpy/xiaoya.json
 ```
-国内访问地址二
+https://cdn.jsdelivr.net/gh/2hacc/TVBox@main/oktv.json
 ```
-主接口：
-https://raw.fastgit.org/2hacc/TVBox/main/tvbox.json
+### 国内访问访问地址二
 
-小雅js：
-https://raw.fastgit.org/2hacc/TVBox/main/drpy/xiaoya.json
 ```
-国内访问备用地址一
+https://raw.githubusercontents.com/2hacc/TVBox/main/oktv.json
 ```
-主接口：
-https://cdn.jsdelivr.net/gh/2hacc/TVBox@main/tvbox.json
+### 国内访问访问地址三
 
-小雅js：
-https://cdn.jsdelivr.net/gh/2hacc/TVBox@main/drpy/xiaoya.json
 ```
-国内访问备用地址二
+https://raw.kkgithub.com/2hacc/TVBox/main/oktv.json
 ```
-主接口：
-https://raw.githubusercontents.com/2hacc/TVBox/main/tvbox.json
-
-小雅js：
-https://raw.githubusercontents.com/2hacc/TVBox/main/drpy/xiaoya.json
+### 国内访问访问地址四
 ```
-国内访问备用地址三
+https://gitdl.cn/https://raw.githubusercontent.com/2hacc/TVBox/main/oktv.json
 ```
-主接口：
-https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/tvbox.json
-
-小雅js：
-https://ghproxy.com/https://raw.githubusercontent.com/2hacc/TVBox/main/drpy/xiaoya.json
+### 国内访问访问地址五
+```
+https://fastly.jsdelivr.net/gh/2hacc/TVBox@main/oktv.json
+```
+### 国内访问访问地址六
+```
+https://jsdelivr.pai233.top/gh/2hacc/TVBox@main/oktv.json
+```
+### 国内访问访问地址七
+```
+https://ghp.ci/https://raw.githubusercontent.com/2hacc/TVBox/main/oktv.json
+```
+### 国内访问访问地址八
+```
+https://raw.incept.pw/2hacc/TVBox/main/oktv.json
 ```
